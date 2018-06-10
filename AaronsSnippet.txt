@@ -1,0 +1,2 @@
+Body of a snippet that we are contributing
+The second line of the snippet
